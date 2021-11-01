@@ -1,1 +1,1 @@
-web: python tracker_server.py
+web: python3 tracker_server.py
